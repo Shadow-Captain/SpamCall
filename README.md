@@ -9,7 +9,7 @@ Instalación
 
 3  `apt install git`
 
-4  `https://github.com/Shadow-Captain/SpamCall`
+4  `git clone https://github.com/Shadow-Captain/SpamCall`
 
 5  `cd SpamCall`
 
